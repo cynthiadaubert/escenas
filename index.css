@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-family: "Roboto";
+}
+
+.header {
+  height: 242px;
+  width: 100vw;
+  border: solid black 3px;
+  background-color: rgb(255, 255, 255);
+}
+
+.logo {
+  width: 156px;
+  height: 78px;
+  background-color: #849fff;
+}
+
+.busqueda {
+  width: 508px;
+  height: 73px;
+  background-color: white;
+  border: #393939 solid 1px;
+}
+
+.boton-busqueda {
+  width: 242px;
+  height: 73px;
+  background-color: #393939;
+}
+
+.master-contenedor {
+  width: max-content;
+  border: aqua solid 5px;
+}
+
+.inbox-body {
+  display: flex;
+  border: solid black 3px;
+  background-color: #cf8888;
+}
+
+.menu {
+  background-color: #c4c4c4;
+  padding: 30px 0px 0px 27px;
+  width: 300px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.contenido {
+  /*   width: 985px;
+  height: 478px; */
+  flex-grow: 1;
+  padding: 130px 0px 0px 34px;
+  background-color: #fff59b;
+}
+
+.emails-list {
+  list-style: none;
+  text-decoration: none;
+}
+
+button {
+  background-color: #393939;
+  height: 73px;
+  width: 242px;
+  border: none;
+  color: rgb(255, 255, 255);
+  margin-bottom: 27px;
+}
+
+li {
+  background-color: #fffde8;
+  color: black;
+  width: 698px;
+  height: 73px;
+  text-align: left;
+  padding: 22px 0px 0px 18px;
+  margin-bottom: 13px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-size: 24px;
+}
