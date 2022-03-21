@@ -5,29 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarea Router</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"> 
     <script type=module defer src="./index.ts"></script>
     <link rel="stylesheet" href="./index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"> 
 </head>
 <body>
 
     <div class="master-contenedor">
         <header class="header">
-            <div class="logo"></div>
-            <textarea class="busqueda"></textarea>
-            <button class="boton-busqueda">Buscar</button>
-
+            <div class="contents">
+                <button class="logo">Logo</button>
+                <textarea class="busqueda"></textarea>
+                <button class="buscar">Buscar</button>
+            </div>
+            
         </header>
         <div class="inbox-body">
             <nav class="menu">
-                <button class="link-interno" id="ses" href="/inbox">Inbox</button>
-                <button class="link-interno" href="/sent">Sent</button>
+                <a class="link-interno" href="/inbox">Inbox</a>
+                <a class="link-interno" href="/sent">Sent</a>
             </nav>
-            <div class="contenido" id="pep"></div>
-        </div>
         
+            <div class="contenido"></div>
+
+        </div>
 
     </div>
 

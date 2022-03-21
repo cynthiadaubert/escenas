@@ -1,4 +1,20 @@
-5766
+5767
+91C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\.bin\node-gyp-build-optional.cmd132913355887071266 0
+77C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\yaml\browser\types132913355663332695 1
+105C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node121436361000000000 0
+58C:\Users\Patata\src\modulo-cinco\router\tarea\package.json132913355901311274 0
+96C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\svgo\lib\svgo\css-select-adapter.d.ts121436361000000000 0
+81C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_baseToPairs.js121436361000000000 0
+79C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\type-fest\index.d.ts121436361000000000 0
+63C:\Users\Patata\src\modulo-cinco\router\tarea\package-lock.json132913355908720719 0
+85C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\mdn-data\css\syntaxes.json121436361000000000 0
+108C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-lite\data\features\css-read-only-write.js121436361000000000 0
+56C:\Users\Patata\src\modulo-cinco\router\tarea\.gitignore132923767194674275 0
+96C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-discard-comments\src\index.js121436361000000000 0
+79C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\fp\isEqual.js121436361000000000 0
+81C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_baseFindKey.js121436361000000000 0
+77C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\posthtml\readme.md121436361000000000 0
+94C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-lite\data\regions\alt-af.js121436361000000000 0
 69C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\css-select132913355876111255 1
 79C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\terser\lib\output.js121436361000000000 0
 95C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@swc\helpers\src\_read_only_error.js132732112500000000 0
@@ -64,14 +80,6 @@
 110C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-lite\data\features\credential-management.js121436361000000000 0
 76C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\toPairs.js121436361000000000 0
 87C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\stylehacks\types\plugin.d.ts121436361000000000 0
-81C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_baseToPairs.js121436361000000000 0
-79C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\type-fest\index.d.ts121436361000000000 0
-63C:\Users\Patata\src\modulo-cinco\router\tarea\package-lock.json132913355908720719 0
-91C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\.bin\node-gyp-build-optional.cmd132913355887071266 0
-77C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\yaml\browser\types132913355663332695 1
-105C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node121436361000000000 0
-58C:\Users\Patata\src\modulo-cinco\router\tarea\package.json132913355901311274 0
-96C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\svgo\lib\svgo\css-select-adapter.d.ts121436361000000000 0
 80C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_basePullAt.js121436361000000000 0
 70C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\is-arrayish132913355766312633 1
 97C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\css-tree\lib\syntax\node\Identifier.js121436361000000000 0
@@ -260,10 +268,6 @@
 93C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\type-fest\source\set-optional.d.ts121436361000000000 0
 80C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss\lib\parser.js121436361000000000 0
 65C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\dotenv132913355764818663 1
-93C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\utils\src\shared-buffer.js121436361000000000 0
-66C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\is-json132913355770254782 1
-90C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-reduce-transforms\types132913355663006181 1
-73C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\pull.js121436361000000000 0
 105C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-minify-font-values\src\lib\keywords.js121436361000000000 0
 76C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\fp\bind.js121436361000000000 0
 78C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\semver\CHANGELOG.md121436361000000000 0
@@ -282,6 +286,10 @@
 83C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\json5\lib\stringify.d.ts121436361000000000 0
 91C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\transformer-json\LICENSE121436361000000000 0
 106C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\terser\node_modules\source-map\lib\read-wasm.js131709648810000000 0
+93C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\utils\src\shared-buffer.js121436361000000000 0
+66C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\is-json132913355770254782 1
+90C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-reduce-transforms\types132913355663006181 1
+73C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\pull.js121436361000000000 0
 102C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\core\src\TargetDescriptor.schema.js121436361000000000 0
 105C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lmdb\prebuilds\linux-x64\node.abi72.glibc.node121436361000000000 0
 80C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_hashDelete.js121436361000000000 0
@@ -720,8 +728,8 @@
 76C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\yaml\parse-cst.js121436361000000000 0
 73C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\yaml\README.md121436361000000000 0
 88C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-svgo\src\globals.d.ts121436361000000000 0
-100C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\stylehacks\types\dictionary\browsers.d.ts121436361000000000 0
 82C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\terser\lib\sourcemap.js121436361000000000 0
+100C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\stylehacks\types\dictionary\browsers.d.ts121436361000000000 0
 85C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lmdb\prebuilds\linux-arm64132913355705543814 1
 80C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_baseIsDate.js121436361000000000 0
 73C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\yaml\scalar.js121436361000000000 0
@@ -842,9 +850,6 @@
 82C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\core\src\public132913355701720509 1
 98C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\cssnano-preset-default\types\index.d.ts121436361000000000 0
 84C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\yaml\browser\types\set.js121436361000000000 0
-85C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\graph\lib\index.js121436361000000000 0
-103C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-lite\data\features\css3-boxsizing.js121436361000000000 0
-82C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\fp\assignWith.js121436361000000000 0
 106C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\stylehacks\types\plugins\leadingUnderscore.d.ts121436361000000000 0
 90C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\yaml\browser\types\timestamp.js121436361000000000 0
 89C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\svgo\plugins\collapseGroups.js121436361000000000 0
@@ -983,8 +988,8 @@
 104C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\core\test\fixtures\library-scopehoist132913355703199811 1
 87C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-minify-selectors\src132913355659350192 1
 74C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\globals\license121436361000000000 0
-88C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\v8-compile-cache\package.json132913355785593200 0
 85C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-calc\src\parser.js121436361000000000 0
+88C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\v8-compile-cache\package.json132913355785593200 0
 80C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_equalByTag.js121436361000000000 0
 91C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\terser\lib\compress\inference.js121436361000000000 0
 73C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\join.js121436361000000000 0
@@ -1753,13 +1758,6 @@
 80C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\csso\lib\clean\Raw.js121436361000000000 0
 76C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_baseAt.js121436361000000000 0
 80C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\posthtml\package.json132913355833283389 0
-85C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\mdn-data\css\syntaxes.json121436361000000000 0
-108C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-lite\data\features\css-read-only-write.js121436361000000000 0
-96C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-discard-comments\src\index.js121436361000000000 0
-79C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\fp\isEqual.js121436361000000000 0
-81C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_baseFindKey.js121436361000000000 0
-77C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\posthtml\readme.md121436361000000000 0
-94C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-lite\data\regions\alt-af.js121436361000000000 0
 73C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\posthtml\types132913355663176993 1
 80C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\fp\assignIn.js121436361000000000 0
 87C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\posthtml\types\posthtml.d.ts121436361000000000 0
@@ -3273,6 +3271,9 @@
 87C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\workers\package.json132913355801286342 0
 85C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\fp\assignAllWith.js121436361000000000 0
 84C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\fp\assignInWith.js121436361000000000 0
+85C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\graph\lib\index.js121436361000000000 0
+103C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-lite\data\features\css3-boxsizing.js121436361000000000 0
+82C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\fp\assignWith.js121436361000000000 0
 78C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\fp\before.js121436361000000000 0
 75C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\globals\index.js121436361000000000 0
 109C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js121436361000000000 0
