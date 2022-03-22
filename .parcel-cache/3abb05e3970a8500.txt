@@ -27,7 +27,7 @@
 83C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\abortcontroller-polyfill132913355764798607 1
 112C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lmdb\prebuilds\darwin-arm64\electron.abi99.glibc.node121436361000000000 0
 88C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\svgo\plugins\removeViewBox.js121436361000000000 0
-50C:\Users\Patata\src\modulo-cinco\router\tarea\dist132924410810129586 1
+50C:\Users\Patata\src\modulo-cinco\router\tarea\dist132924514917040132 1
 75C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\values.js121436361000000000 0
 107C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-merge-longhand\types\lib\canExplode.d.ts121436361000000000 0
 105C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-lite\data\features\childnode-remove.js121436361000000000 0
@@ -48,7 +48,7 @@
 88C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-colormin\package.json132913355843279973 0
 83C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\svgo\lib\svgo\jsAPI.d.ts121436361000000000 0
 71C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\at.js121436361000000000 0
-55C:\Users\Patata\src\modulo-cinco\router\tarea\index.css132924409046238888 0
+55C:\Users\Patata\src\modulo-cinco\router\tarea\index.css132924514519172085 0
 103C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss-selector-parser\dist\util\getProp.js121436361000000000 0
 124C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main132913355702574744 1
 70C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-api132913355863331153 1
@@ -75,7 +75,7 @@
 81C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\js-tokens\CHANGELOG.md131616142690000000 0
 79C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\parse-json\readme.md121436361000000000 0
 89C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\type-fest\source\asyncify.d.ts121436361000000000 0
-54C:\Users\Patata\src\modulo-cinco\router\tarea\index.ts132924389312621461 0
+54C:\Users\Patata\src\modulo-cinco\router\tarea\index.ts132924515088004777 0
 58C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules132913355900471250 1
 110C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\caniuse-lite\data\features\credential-management.js121436361000000000 0
 76C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\toPairs.js121436361000000000 0
@@ -2309,7 +2309,7 @@
 77C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\_getData.js121436361000000000 0
 90C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 87C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss\lib\declaration.d.ts121436361000000000 0
-68C:\Users\Patata\src\modulo-cinco\router\tarea\dist\index.8e9bd240.js132924410299441515 0
+68C:\Users\Patata\src\modulo-cinco\router\tarea\dist\index.8e9bd240.js132924514917030111 0
 98C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\core\src\ParcelConfig.schema.js121436361000000000 0
 73C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lodash\mean.js121436361000000000 0
 85C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\postcss\lib\declaration.js121436361000000000 0
@@ -3703,7 +3703,7 @@
 86C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lmdb\prebuilds\darwin-arm64132913355705387543 1
 84C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lmdb\prebuilds\darwin-x64132913355705387543 1
 83C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lmdb\prebuilds\linux-x64132913355705543814 1
-72C:\Users\Patata\src\modulo-cinco\router\tarea\dist\index.8e9bd240.js.map132924410299441515 0
+72C:\Users\Patata\src\modulo-cinco\router\tarea\dist\index.8e9bd240.js.map132924514917040132 0
 143C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\package.json121436361000000000 0
 103C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lmdb\prebuilds\win32-x64\electron.abi99.node121436361000000000 0
 99C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\lmdb\prebuilds\win32-x64\node.abi72.node121436361000000000 0
@@ -5764,6 +5764,6 @@
 72C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\.bin\svgo.cmd132913355887951258 0
 70C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\.bin\terser132913355887991259 0
 74C:\Users\Patata\src\modulo-cinco\router\tarea\node_modules\.bin\terser.cmd132913355887991259 0
-69C:\Users\Patata\src\modulo-cinco\router\tarea\dist\index.9e4c6fd2.css132924405211160298 0
-73C:\Users\Patata\src\modulo-cinco\router\tarea\dist\index.9e4c6fd2.css.map132924405211160298 0
+69C:\Users\Patata\src\modulo-cinco\router\tarea\dist\index.9e4c6fd2.css132924514520515655 0
+73C:\Users\Patata\src\modulo-cinco\router\tarea\dist\index.9e4c6fd2.css.map132924514520515655 0
 61C:\Users\Patata\src\modulo-cinco\router\tarea\dist\index.html132924410810129586 0

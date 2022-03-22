@@ -21,10 +21,14 @@ export function processLinks(container: any = document) {
   const buttonInbox = document.getElementById("mn");
   const buttonSent = document.getElementById("pd");
   buttonSent.addEventListener("click", function onClick() {
+    buttonSent.style.backgroundColor = "#393939";
+    buttonInbox.style.backgroundColor = "#888888";
     const bg = document.getElementById("pep");
     bg.style.backgroundColor = "#FF9BB3";
   });
   buttonInbox.addEventListener("click", function onClick() {
+    buttonInbox.style.backgroundColor = "#393939";
+    buttonSent.style.backgroundColor = "#888888";
     const bg = document.getElementById("pep");
     bg.style.backgroundColor = "#fff59b";
   });
