@@ -538,10 +538,15 @@ function processLinks(container = document) {
     });
 }
 (function() {
-    const button = document.getElementById("ses");
-    button.addEventListener("click", function onClick() {
+    const buttonInbox = document.getElementById("mn");
+    const buttonSent = document.getElementById("pd");
+    buttonSent.addEventListener("click", function onClick() {
         const bg = document.getElementById("pep");
-        bg.style.backgroundColor = "coral";
+        bg.style.backgroundColor = "#FF9BB3";
+    });
+    buttonInbox.addEventListener("click", function onClick() {
+        const bg = document.getElementById("pep");
+        bg.style.backgroundColor = "#fff59b";
     });
     window.addEventListener("load", ()=>_handleRoute.handleRoute(location.pathname)
     );
@@ -587,6 +592,7 @@ var _list = require("./inbox/list");
 var _list1 = require("./sent/list");
 var _index = require("./index");
 var _email = require("./inbox/email");
+var _email1 = require("./sent/email");
 function handleRoute(route) {
     const routes = [
         {
@@ -596,6 +602,10 @@ function handleRoute(route) {
         {
             path: /\/sent/,
             handler: _list1.sentListComp
+        },
+        {
+            path: /\/sent\/./,
+            handler: _email1.inboxSentComp
         },
         {
             path: /\/inbox\/./,
@@ -611,7 +621,7 @@ function handleRoute(route) {
     }
 }
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./inbox/list":"c85Mv","./sent/list":"jKrxM","./index":"1jwFz","./inbox/email":"1sQV7"}],"c85Mv":[function(require,module,exports) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./inbox/list":"c85Mv","./sent/list":"jKrxM","./index":"1jwFz","./inbox/email":"1sQV7","./sent/email":"aT9j8"}],"c85Mv":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "inboxListComp", ()=>inboxListComp
@@ -643,7 +653,21 @@ parcelHelpers.export(exports, "sentListComp", ()=>sentListComp
 );
 function sentListComp() {
     const div = document.createElement("div");
-    div.textContent = "Enviado";
+    div.innerHTML = `
+    <h3>Sent</h3>
+    <ul class="emails-list">
+    <li>
+        <a class="link-interno"  href="/sent/4321">4321</a>
+      
+    </li>
+    <li>
+    
+        <a class="link-interno" href="/sent/8765">8765</a>
+    </li>
+    </ul>
+    
+    
+    `;
     return div;
 }
 
@@ -655,11 +679,27 @@ parcelHelpers.export(exports, "inboxEmailComp", ()=>inboxEmailComp
 function inboxEmailComp() {
     const div = document.createElement("div");
     const emailId = location.pathname.split("/")[2];
-    console.log("soy el email id", emailId);
-    div.innerHTML = `
+    /*   console.log("soy el email id", emailId); */ div.innerHTML = `
       
-        <h2>Email ${emailId}</h2>
+        <h2>Recibido</h2>
+        <div>${emailId}</div>
       
+      `;
+    return div;
+}
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"aT9j8":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "inboxSentComp", ()=>inboxSentComp
+);
+function inboxSentComp() {
+    const div = document.createElement("div");
+    const emailId = location.pathname.split("/")[2];
+    /* console.log("soy el email id", emailId); */ div.innerHTML = `
+      
+        <h2>Enviado</h2>
+        <div>${emailId}</div>
       
       `;
     return div;

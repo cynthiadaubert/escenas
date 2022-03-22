@@ -2,6 +2,7 @@ import { inboxListComp } from "./inbox/list";
 import { sentListComp } from "./sent/list";
 import { processLinks } from "./index";
 import { inboxEmailComp } from "./inbox/email";
+import { inboxSentComp } from "./sent/email";
 
 export function handleRoute(route) {
   const routes = [
@@ -12,6 +13,10 @@ export function handleRoute(route) {
     {
       path: /\/sent/,
       handler: sentListComp,
+    },
+    {
+      path: /\/sent\/./,
+      handler: inboxSentComp,
     },
     {
       path: /\/inbox\/./,

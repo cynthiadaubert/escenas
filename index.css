@@ -6,34 +6,38 @@
   font-family: "Roboto";
 }
 
-.header {
-  display: flex;
-  justify-content: center;
-  padding: 80px 0px 80px 0px;
-  height: 242px;
+.master-contenedor {
   width: 100vw;
-  background-color: white;
-  border: solid black 2px;
 }
 
-.contents {
+.header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  height: 242px;
+  width: 100vw;
+  background-color: rgb(255, 255, 255);
+}
+
+/* .contents {
+  display: flex;
+  align-items: center;
+   justify-content: space-between; 
   height: fit-content;
   width: 1500px;
-  border: #393939 solid 9px;
-}
+  border: solid black 2px;
+} */
 
 .logo {
   width: 156px;
   height: 78px;
+  margin-right: 70px;
   background-color: #849fff;
   border: none;
 }
 
-.textarea {
-  width: 800px;
+.busqueda {
+  width: 520px;
   height: 73px;
 }
 
@@ -41,6 +45,7 @@
   background-color: #393939;
   color: white;
   height: 73px;
+  margin-left: 36px;
   width: 242px;
 }
 
@@ -60,19 +65,37 @@
 .contenido {
   flex-grow: 1;
   background-color: #fff59b;
+  padding: 30px 0px 0px 34px;
 }
 
 .emails-list {
+  padding-top: 29px;
   list-style: none;
+  font-size: 24px;
 }
 
 .link-interno {
   width: 242;
   height: 73px;
-  background-color: #888888;
   text-decoration: none;
   margin-bottom: 27px;
   color: black;
   text-align: center;
   font-family: "Roboto";
+}
+
+button {
+  background-color: #888888;
+  border: none;
+}
+
+h2 {
+  font-weight: 700, Bold;
+  font-size: 40px;
+  line-height: 46.88px;
+  padding-bottom: 26px;
+}
+
+h3 {
+  font-size: 60px;
 }

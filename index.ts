@@ -18,10 +18,15 @@ export function processLinks(container: any = document) {
 }
 
 (function () {
-  const button = document.getElementById("ses");
-  button.addEventListener("click", function onClick() {
+  const buttonInbox = document.getElementById("mn");
+  const buttonSent = document.getElementById("pd");
+  buttonSent.addEventListener("click", function onClick() {
     const bg = document.getElementById("pep");
-    bg.style.backgroundColor = "coral";
+    bg.style.backgroundColor = "#FF9BB3";
+  });
+  buttonInbox.addEventListener("click", function onClick() {
+    const bg = document.getElementById("pep");
+    bg.style.backgroundColor = "#fff59b";
   });
 
   window.addEventListener("load", () => handleRoute(location.pathname));

@@ -2,92 +2,102 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-size: 24px;
+  font-size: 30px;
   font-family: "Roboto";
 }
 
+.master-contenedor {
+  width: 100vw;
+}
+
 .header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 242px;
   width: 100vw;
-  border: solid black 3px;
   background-color: rgb(255, 255, 255);
 }
+
+/* .contents {
+  display: flex;
+  align-items: center;
+   justify-content: space-between; 
+  height: fit-content;
+  width: 1500px;
+  border: solid black 2px;
+} */
 
 .logo {
   width: 156px;
   height: 78px;
+  margin-right: 70px;
   background-color: #849fff;
+  border: none;
 }
 
 .busqueda {
-  width: 508px;
+  width: 520px;
   height: 73px;
-  background-color: white;
-  border: #393939 solid 1px;
 }
 
-.boton-busqueda {
-  width: 242px;
-  height: 73px;
+.buscar {
   background-color: #393939;
-}
-
-.master-contenedor {
-  width: max-content;
-  border: aqua solid 5px;
+  color: white;
+  height: 73px;
+  margin-left: 36px;
+  width: 242px;
 }
 
 .inbox-body {
   display: flex;
-  border: solid black 3px;
-  background-color: #cf8888;
+  height: 100vh;
 }
 
 .menu {
   background-color: #c4c4c4;
-  padding: 30px 0px 0px 27px;
-  width: 300px;
-  height: 100vh;
+  width: 296px;
+  padding: 20px;
   display: flex;
   flex-direction: column;
 }
 
 .contenido {
-  /*   width: 985px;
-  height: 478px; */
   flex-grow: 1;
-  padding: 130px 0px 0px 34px;
   background-color: #fff59b;
+  padding: 30px 0px 0px 34px;
 }
 
 .emails-list {
+  padding-top: 29px;
   list-style: none;
+  font-size: 24px;
+}
+
+.link-interno {
+  width: 242;
+  height: 73px;
   text-decoration: none;
+  margin-bottom: 27px;
+  color: black;
+  text-align: center;
+  font-family: "Roboto";
 }
 
 button {
-  background-color: #393939;
-  height: 73px;
-  width: 242px;
+  background-color: #888888;
   border: none;
-  color: rgb(255, 255, 255);
-  margin-bottom: 27px;
 }
 
-li {
-  background-color: #fffde8;
-  color: black;
-  width: 698px;
-  height: 73px;
-  text-align: left;
-  padding: 22px 0px 0px 18px;
-  margin-bottom: 13px;
+h2 {
+  font-weight: 700, Bold;
+  font-size: 40px;
+  line-height: 46.88px;
+  padding-bottom: 26px;
 }
 
-a {
-  color: black;
-  text-decoration: none;
-  font-size: 24px;
+h3 {
+  font-size: 60px;
 }
 
 /*# sourceMappingURL=index.9e4c6fd2.css.map */
